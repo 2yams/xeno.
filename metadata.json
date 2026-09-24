@@ -1,0 +1,6 @@
+{
+  "name": "xeno. — Minimal Timer & Stopwatch",
+  "description": "xeno. is a fast, minimal and customizable timer and stopwatch with presets, white noise, themes and ambient audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
